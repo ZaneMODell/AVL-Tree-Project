@@ -1,0 +1,51 @@
+
+<svg width="480" height="300" xmlns="http://www.w3.org/2000/svg">
+<style>
+    .value {
+        font: 300 16px monospace;
+        text-align: center;
+        dominant-baseline: middle;
+        text-anchor: middle;
+    }
+    .dict {
+        font: 300 16px monospace;
+        dominant-baseline: middle;
+    }
+    .node {
+        fill: lightgray;
+        stroke-width: 1;
+    }
+</style>
+<g stroke="#000000">
+<line x1="411.0" y1="180" x2="381.0" y2="240"/>
+<line x1="291.0" y1="180" x2="321.0" y2="240"/>
+<line x1="51.0" y1="180" x2="81.0" y2="240"/>
+<line x1="51.0" y1="180" x2="21.0" y2="240"/>
+<line x1="351.0" y1="120" x2="411.0" y2="180"/>
+<line x1="351.0" y1="120" x2="291.0" y2="180"/>
+<line x1="111.0" y1="120" x2="51.0" y2="180"/>
+<line x1="231.0" y1="60" x2="351.0" y2="120"/>
+<line x1="231.0" y1="60" x2="111.0" y2="120"/>
+<circle class="node" cx="231.0" cy="60" r="20"/>
+<text class="value" x="231.0" y="65">10</text>
+<circle class="node" cx="111.0" cy="120" r="20"/>
+<text class="value" x="111.0" y="125">7</text>
+<circle class="node" cx="351.0" cy="120" r="20"/>
+<text class="value" x="351.0" y="125">19</text>
+<circle class="node" cx="51.0" cy="180" r="20"/>
+<text class="value" x="51.0" y="185">4</text>
+<circle class="node" cx="291.0" cy="180" r="20"/>
+<text class="value" x="291.0" y="185">13</text>
+<circle class="node" cx="411.0" cy="180" r="20"/>
+<text class="value" x="411.0" y="185">35</text>
+<circle class="node" cx="21.0" cy="240" r="20"/>
+<text class="value" x="21.0" y="245">1</text>
+<circle class="node" cx="81.0" cy="240" r="20"/>
+<text class="value" x="81.0" y="245">6</text>
+<circle class="node" cx="321.0" cy="240" r="20"/>
+<text class="value" x="321.0" y="245">17</text>
+<circle class="node" cx="381.0" cy="240" r="20"/>
+<text class="value" x="381.0" y="245">25</text>
+</g>
+</svg>
+
